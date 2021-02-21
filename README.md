@@ -18,7 +18,7 @@ Jumbled words consist of a closed source software/technology and its open source
 You'll be provided with hints which will let you know the domain of a pair of technology which has been given to you.  
 One player will guess the closed source technology while the other player will guess its open source alternative.
 
-Head straight in -> [FREEMAN](https://ishan-saini.github.io/codejam-21/trendy-tacos/)
+Head straight in -> [FREEMAN](https://ishan-saini.github.io/Freeman/)
 
 - **Rules**
 
