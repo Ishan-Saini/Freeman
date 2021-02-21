@@ -9,7 +9,7 @@
 Wait what? Freeman?  
 We've all played Hangman but what's Freeman?
 
-In Freeman, we need to stop Chintu (sexist much?) from escaping. He's being hanged.
+In Freeman, we need to stop Chintu from escaping. He's being hanged.
 
 This game is based on hangman but its purpose is exactly opposite (Don't let him escape).  
 This is a multiplayer/PVP game. Users will be given a jumbled word with a hint.
@@ -31,8 +31,8 @@ Head straight in -> [FREEMAN](https://ishan-saini.github.io/codejam-21/trendy-ta
 **Note: This game has only been created for desktop screens right now.**
 
 TODO -
-While this project was created under a coding event, We'd still be working on it after the event. Some functionalities we might add -  
+
 1. Timer for each turn.  
-2. Avoid repeating of words  
+2. Avoid repetition of words  
 3. socket.io for multiscreen   
 4. Add backend 
